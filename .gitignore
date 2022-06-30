@@ -1,0 +1,7 @@
+// gitignore for frontend(react) and backend(node)
+.env
+node_modules
+vs_code
+.package-lock.json
+.config
+.idea
